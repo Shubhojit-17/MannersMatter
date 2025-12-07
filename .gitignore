@@ -36,8 +36,8 @@ obj/
 # Ignore .asmdef.meta as they might be tracked already
 *.asmdef.meta
 
-# Keep Assets and Project Settings
-Assets/**
+# Keep Project Settings and Packages; do not ignore Assets
+# (Assets must be tracked to include scripts, prefabs, scenes)
 Packages/**
 ProjectSettings/**
 UserSettings/**
