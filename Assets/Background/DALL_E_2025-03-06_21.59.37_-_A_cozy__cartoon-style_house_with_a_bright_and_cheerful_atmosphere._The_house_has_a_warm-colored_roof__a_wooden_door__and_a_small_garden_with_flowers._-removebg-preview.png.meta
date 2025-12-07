@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 7fa51311aeff30f4784619493442c50c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2406153666902002656
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_0
+  - first:
+      213: 2514116892791598595
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_1
+  - first:
+      213: -2537901884254529343
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_2
+  - first:
+      213: 7715636919393266117
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_3
+  - first:
+      213: -489768587256800415
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_4
+  - first:
+      213: 7287385914761459675
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_5
+  - first:
+      213: 5753507259345206510
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_6
+  - first:
+      213: 7284368804611600517
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_7
+  - first:
+      213: -9084649735143916227
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_8
+  - first:
+      213: 614240042834624592
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_9
+  - first:
+      213: 6121717578498521847
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_10
+  - first:
+      213: 7334165316939358741
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_11
+  - first:
+      213: 1002554546771223134
+    second: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 329
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52df44910dbcaf49aaf289aa802daf7
+      internalID: 923393719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 59e54c6f794e1ec45978281d94038591
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DALL_E_2025-03-06_21.59.37_-_A_cozy__cartoon-style_house_with_a_bright_and_cheerful_atmosphere._The_house_has_a_warm-colored_roof__a_wooden_door__and_a_small_garden_with_flowers._-removebg-preview_0: 923393719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
