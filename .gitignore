@@ -44,7 +44,14 @@ UserSettings/**
 
 # But ignore large binary bundles
 Assets/StreamingAssets/**
+# Ignore build output and runtime artifacts
 */MannersMatter_Data/**
+*.exe
+UnityPlayer.dll
+UnityCrashHandler*.exe
+MannersMatter_BurstDebugInformation_DoNotShip/
+MonoBleedingEdge/
+D3D12/
 
 # Git LFS patterns (optional)
 #*.png filter=lfs diff=lfs merge=lfs -text
