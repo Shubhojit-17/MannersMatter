@@ -62,5 +62,5 @@ Logs/
 */Logs/
 
 # Keep README & license
-README.md
-LICENSE
+!README.md
+!LICENSE
